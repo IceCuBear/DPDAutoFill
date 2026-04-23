@@ -26,7 +26,7 @@ Issue tracker: https://github.com/IceCuBear/DPDAutoFill/issues
   - MutationObserver‑based element detection (no hot loops)
   - Safe input/change event dispatching
 
-## 🖥 Supported DPD pages
+## Supported DPD pages
 
 The script matches the following URL patterns (from the userscript header):
 
